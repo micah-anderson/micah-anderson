@@ -30,16 +30,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
 
-  <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">📊 GitHub Stats</h2>
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=micah-anderson&show_icons=true&theme=radical&bg_color=00000000" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=micah-anderson&theme=radical&background=00000000" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">🏆 GitHub Trophies</h2>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=micah-anderson&theme=darkhub&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" style="max-width: 100%; height: auto;" />
+<h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">📊 GitHub Stats</h2> <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;"> <img src="https://github-readme-stats.vercel.app/api?username=micah-anderson&show_icons=true&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=micah-anderson&theme=radical&background=00000000&hide_border=true" alt="GitHub Streak" style="max-width: 100%; height: auto;" /> </div> <div style="display: flex; justify-content: center; margin-top: 20px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micah-anderson&theme=radical&bg_color=00000000&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;" /> </div> <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">🏆 GitHub Trophies</h2> <div style="display: flex; justify-content: center; margin-top: 20px;"> <img src="https://github-profile-trophy.vercel.app/?username=micah-anderson&theme=radical&no-frame=true&margin-w=15&column=7&row=1" alt="GitHub Trophies" style="max-width: 100%; height: auto;" /> </div> <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">📈 Contribution Graph</h2> <div style="display: flex; justify-content: center; margin-top: 20px;"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=micah-anderson&theme=redical&bg_color=00000000&hide_border=true" alt="Contribution Graph" style="max-width: 100%; height: auto;" /> </div>
 
   <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">📫 Connect with Me</h2>
 
@@ -56,10 +47,6 @@
   </div>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://komarev.com/ghpvc/?username=micah-anderson&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/micah-anderson/micah-anderson/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=flat-square&color=blue" alt="Profile Views" />
 </div>
