@@ -14,7 +14,7 @@
     <br><br>
     🛠️ <strong>Builder at Heart:</strong> From concept to full-scale apps, I love seeing projects come to life. Coding is so much fun!
     <br><br>
-    🔗 Check out my personal portfolio website: <a href="[https://vercel.com/micah-andersons-projects/2024-professional-website](https://micah-anderson.vercel.app/)" style="color: #58a6ff; text-decoration: none;">My Portfolio</a>
+    🔗 Check out my personal portfolio website: <a href="https://micah-anderson.vercel.app/" style="color: #58a6ff; text-decoration: none;">My Portfolio's currently being updated. So don't judge too harshly :D</a>
   </p>
 
   <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">🛠️ Technologies & Tools</h2>
