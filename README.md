@@ -10,11 +10,11 @@
   <p style="color: #d0d0d0; font-size: 16px; line-height: 1.6; text-align: justify; padding: 0 20px;">
     🎨 <strong>Design Lover:</strong> I'm creating intuitive, comfy user interfaces on the daily. Well trying to... I'm developing my own style and trying to make it so the apps and websites that I create don't just look good but their fun and have some personality. I feel safe at a site that has nice aesthetics... After all, when it's all said and done, UX and UI are what the users are going to be interacting with. Might as well make it look nice!
     <br><br>
-    💻 <strong>Front-End Path:</strong> I specialize in <span style="color: #61dafb;">React</span> and <span style="color: #f7df1e;">JavaScript</span>. I like the lego component-centric workflow... it's fun!
+    💻 <strong>Front-End Path:</strong> I specialize in <span style="color: #61dafb;">React</span>, Next.js, <span style="color: #f7df1e;">JavaScript</span>, and I'm getting better at Typescript everyday. With React and Next.js I like the lego component-centric workflow... it's fun!
     <br><br>
     🛠️ <strong>Builder at Heart:</strong> From concept to full-scale apps, I love seeing projects come to life. Coding is so much fun!
     <br><br>
-    🔗 Check out my personal portfolio website: <a href="https://vercel.com/micah-andersons-projects/2024-professional-website" style="color: #58a6ff; text-decoration: none;">My Portfolio</a>
+    🔗 Check out my personal portfolio website: <a href="[https://vercel.com/micah-andersons-projects/2024-professional-website](https://micah-anderson.vercel.app/)" style="color: #58a6ff; text-decoration: none;">My Portfolio</a>
   </p>
 
   <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); margin-top: 30px;">🛠️ Technologies & Tools</h2>
