@@ -8,7 +8,7 @@
   <h2 style="color: #f0f0f0; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">🚀 About Me</h2>
 
   <p style="color: #d0d0d0; font-size: 16px; line-height: 1.6; text-align: justify; padding: 0 20px;">
-    🎨 <strong>Design Lover:</strong> I'm creating intuitive, comfy user interfaces on the daily. I'm developing my own style and trying to make it so the apps and websites I create don't just look good—they but their fun and spaced out and a ncie experience. I feel safe at a site that has nice aethetics... After all, when it's all said and done, UX and UI are what the users are going to be interacting with. It's kinda sad but you can have the best backend ever but if the UI is garbage... people just don't care. It sounds so stupid really... but people like and trust what looks good... 
+    🎨 <strong>Design Lover:</strong> I'm creating intuitive, comfy user interfaces on the daily. Well trying to... I'm developing my own style and trying to make it so the apps and websites that I create don't just look good but their fun and have some personality. I feel safe at a site that has nice aesthetics... After all, when it's all said and done, UX and UI are what the users are going to be interacting with. Might as well make it look nice!
     <br><br>
     💻 <strong>Front-End Path:</strong> I specialize in <span style="color: #61dafb;">React</span> and <span style="color: #f7df1e;">JavaScript</span>. I like the lego component-centric workflow... it's fun!
     <br><br>
