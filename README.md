@@ -12,7 +12,7 @@
     <br><br>
     💻 <strong>Front-End Path:</strong> I specialize in <span style="color: #61dafb;">React</span>, Next.js, <span style="color: #f7df1e;">JavaScript</span>, and I'm getting better at Typescript everyday. With React and Next.js I like the lego component-centric workflow... it's fun!
     <br><br>
-    🛠️ <strong>Builder at Heart:</strong> From concept to full-scale apps, I love seeing projects come to life. Coding is so much fun!
+    🛠️ <strong>Builder at Heart:</strong> Finishing something well  that's another story...
     <br><br>
     🔗 Check out my personal portfolio website: <a href="https://micah-anderson.vercel.app/" style="color: #58a6ff; text-decoration: none;">My Portfolio's currently being updated. So don't judge too harshly :D</a>
   </p>
